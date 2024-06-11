@@ -1,7 +1,5 @@
 
-Claro, aquí tienes un README completo para tu proyecto en GitHub:
-
-RecetillasApp
+RECETILLASapp
 RecetillasApp es una aplicación de Android para gestionar recetas. Permite a los usuarios ver una lista de recetas y agregar nuevas recetas con sus ingredientes.
 
 Características
